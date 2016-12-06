@@ -28,3 +28,5 @@ phpunit.phar
 /runtime
 tests/_output/*
 tests/_support/_generated
+/web/root
+php_errors.log
